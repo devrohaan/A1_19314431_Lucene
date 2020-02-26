@@ -14,8 +14,8 @@ public class AppConstants {
     //Data Loader Constants
     public static final String DATA_LOADING = "1. Loading Data";
     public static final String ERROR_DATA_LOADING = "Error occurred >> Loading Data";
-    public static final String QUERY_LOADING = "4. Loading Query";
-    public static final String ERROR_QUERY_LOADING = "Error occurred >> Loading Query";
+    public static final String QUERY_LOADING = "4. Loading Queries";
+    public static final String ERROR_QUERY_LOADING = "Error occurred >> Loading Queries";
 
     //Data Preprocess Constants
     public static final String DATA_PRE_PROCESSING = "3. Pre-processing Data";
