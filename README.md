@@ -32,8 +32,8 @@ released under the Apache License 2.0. Lucene is suitable for any application or
 
     ./run.sh
 
-#### - :pencil2: run.sh internally executes the jar file created during maven install.
-#### - :pencil2: trec_eval results are stored in for the current choice of analyzer.
+- :pencil2: run.sh internally executes the jar file created during maven install.
+- :pencil2: trec_eval results are stored in for the current choice of analyzer.
 #### - :pencil2: contains trec_eval results for all analyzers.
 #### - :pencil2: Enter '-1' at the end of the execution to exit.
 
