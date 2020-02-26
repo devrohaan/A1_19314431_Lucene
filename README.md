@@ -1,12 +1,14 @@
 #### CS7IS3-A-SEM202-201920-INFORMATION-RETRIEVAL-AND-WEB-SEARCH
 
 **Name: Rohan Dilip Bagwe**
+
 **TCDID: 19314431**
+
 **COURSE: MSc COMPUTER SCIENCE INTELLIGET SYSTEMS**
 
 # Assignment 1: Lucene - A Full-text Search Library
 
-> Abstract—Apache Lucene is an open source, high-performance, full-text search engine library written completely in Java and
+> Apache Lucene is an open source, high-performance, full-text search engine library written completely in Java and
 released under the Apache License 2.0. Lucene is suitable for any application or website that requires full-text indexing and searching functionality. This is a short report explaining the design, implementation and performance evaluation of a text-only search engine built on Cranfield collection.
 
 ### :paperclip: Execution Cookbook
