@@ -8,6 +8,9 @@ do
   ./trec_eval-9.0.7/trec_eval ./data/QRelsCorrectedforTRECeval ./results/VectorSpaceModel.txt > ./Trec_Eval_Results/VSM_Trec_Evaluation.txt
 
   echo "Mean Average Precesion using BM25:"
+  echo ""
+  cat Trec_Eval_Results/BM25_Trec_Evaluation.txt | sed -n '1p'
+  echo ""
   cat Trec_Eval_Results/BM25_Trec_Evaluation.txt | sed -n '6p'
   echo ""
   cat Trec_Eval_Results/BM25_Trec_Evaluation.txt | sed -n '22p'
@@ -23,6 +26,9 @@ do
   echo ""
 
   echo "Mean Average Precesion using VectorSpaceModel:"
+  echo ""
+  cat Trec_Eval_Results/VSM_Trec_Evaluation.txt | sed -n '1p'
+  echo ""
   cat Trec_Eval_Results/VSM_Trec_Evaluation.txt | sed -n '6p'
   echo ""
   cat Trec_Eval_Results/VSM_Trec_Evaluation.txt | sed -n '22p'
@@ -37,8 +43,8 @@ do
   cat Trec_Eval_Results/VSM_Trec_Evaluation.txt | sed -n '30p'
   echo ""
 
-  echo "Evaluation Matrix Stored in: Trec_Eval_Results/BM25_Trec_Evaluation.txt"
-  echo "Evaluation Matrix Stored in: Trec_Eval_Results/VSM_Trec_Evaluation.txt"
+  echo "Complete Evaluation Matrix Stored in: Trec_Eval_Results/BM25_Trec_Evaluation.txt"
+  echo "Complete Evaluation Matrix Stored in: Trec_Eval_Results/VSM_Trec_Evaluation.txt"
   echo ""
   read -p "Please Enter ( -1 to quit ) : " a
 	if [ $a -eq -1 ]
