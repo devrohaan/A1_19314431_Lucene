@@ -56,7 +56,7 @@ released under the Apache License 2.0. Lucene is suitable for any application or
         ./Trec_Eval_Results/BM25_Trec_Evaluation.txt
         ./Trec_Eval_Results/VSM_Trec_Evaluation.txt
      
-:pencil2: **'Trec_Eval_Results_Archive'** contains trec_eval results for all analyzers
+:pencil2: **'Trec_Eval_Results_Archive'** contains trec_eval results of all analyzers
 
         ./Trec_Eval_Results_Archive/CustomAnalyzer/
         ./Trec_Eval_Results_Archive/SimpleAnalyzer/
