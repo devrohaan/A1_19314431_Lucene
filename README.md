@@ -69,4 +69,4 @@ released under the Apache License 2.0. Lucene is suitable for any application or
 ![git](https://github.com/rohan-tcd/A1_19314431_Lucene/blob/master/static/demo.gif) 
 
 
-### Thank you
+### Thank you!
