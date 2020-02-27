@@ -1,9 +1,8 @@
 #### CS7IS3-A-SEM202-201920-INFORMATION-RETRIEVAL-AND-WEB-SEARCH
 
-Name: **Rohan Dilip Bagwe**
-TCDID: **19314431**
-
-**COURSE: MSc COMPUTER SCIENCE INTELLIGET SYSTEMS**
+Name: **Rohan Dilip Bagwe**</br>
+TCDID: **19314431**</br>
+COURSE: **MSc COMPUTER SCIENCE INTELLIGET SYSTEMS**
 
 # Assignment 1: Lucene - A Full-text Search Library
 
