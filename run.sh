@@ -46,7 +46,7 @@ do
   echo "Complete Evaluation Matrix (Precision and Recall) Stored in: Trec_Eval_Results/BM25_Trec_Evaluation.txt"
   echo "Complete Evaluation Matrix (Precision and Recall) Stored in: Trec_Eval_Results/VSM_Trec_Evaluation.txt"
   echo ""
-  read -p "Please Enter ( -1 to quit ) : " a
+  read -p "Please Enter ( -1 to quit or any key to continue ) : " a
 	if [ $a -eq -1 ]
 	then
 		break
