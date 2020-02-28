@@ -25,7 +25,7 @@ public class Main {
         System.out.print(AppConstants.ANALYZER_CHOICE);
         while (!in.hasNextInt())
         {
-            System.out.println(AppConstants.RED_START + AppConstants.INVALID_CHOICE + AppConstants.RED_START);
+            System.out.println(AppConstants.RED_START + AppConstants.INVALID_CHOICE + AppConstants.RED_END);
             in.next();
         }
         int analyzer = in.nextInt();
