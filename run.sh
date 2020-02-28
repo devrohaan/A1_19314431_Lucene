@@ -43,8 +43,8 @@ do
   cat Trec_Eval_Results/VSM_Trec_Evaluation.txt | sed -n '30p'
   echo ""
 
-  echo "Complete Evaluation Matrix Stored in: Trec_Eval_Results/BM25_Trec_Evaluation.txt"
-  echo "Complete Evaluation Matrix Stored in: Trec_Eval_Results/VSM_Trec_Evaluation.txt"
+  echo "Complete Evaluation Matrix (Precision and Recall) Stored in: Trec_Eval_Results/BM25_Trec_Evaluation.txt"
+  echo "Complete Evaluation Matrix (Precision and Recall) Stored in: Trec_Eval_Results/VSM_Trec_Evaluation.txt"
   echo ""
   read -p "Please Enter ( -1 to quit ) : " a
 	if [ $a -eq -1 ]
