@@ -66,7 +66,7 @@ released under the Apache License 2.0. Lucene is suitable for any application or
 :pencil2: Enter **'-1'** at the end of the execution to exit from run.sh.
 
 ### :paperclip: Demo
-![demo](https://github.com/rohan-tcd/A1_19314431_Lucene/blob/master/static/demo.gif) 
+![git](https://github.com/rohan-tcd/A1_19314431_Lucene/blob/master/static/demo.gif) 
 
 
 ### Thank you!
