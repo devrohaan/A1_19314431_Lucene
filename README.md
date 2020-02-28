@@ -32,7 +32,7 @@ released under the Apache License 2.0. Lucene is suitable for any application or
 
 ### :paperclip: run.sh
 
-:pencil2: run.sh internally executes the **A1_19314431_Lucene-1.0-SNAPSHOT-jar-with-dependencies.jar** file created during maven install
+:pencil2: run.sh internally executes the **A1_19314431_Lucene-1.0-SNAPSHOT-jar-with-dependencies.jar** file created during maven install and located at
 
         ./target/A1_19314431_Lucene-1.0-SNAPSHOT-jar-with-dependencies.jar
         
@@ -66,7 +66,7 @@ released under the Apache License 2.0. Lucene is suitable for any application or
 :pencil2: Enter **'-1'** at the end of the execution to exit from run.sh.
 
 ### :paperclip: Demo
-![git](https://github.com/rohan-tcd/A1_19314431_Lucene/blob/master/static/demo.gif) 
+![demo](https://github.com/rohan-tcd/A1_19314431_Lucene/blob/master/static/demo.gif) 
 
 
 ### Thank you!
